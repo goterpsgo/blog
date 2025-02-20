@@ -57,6 +57,6 @@ end
 
 group :test do
   gem "capybara", "~> 3.40"
-  gem "selenium-webdriver", "~> 4.27"
+  gem "selenium-webdriver", "~> 4.29"
   gem "shoulda-matchers", "~> 6.4"
 end
