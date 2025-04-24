@@ -7,7 +7,7 @@ gem "sprockets-rails", "~> 3.5", ">= 3.5.2"
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.5", ">= 1.5.9"
 # Use the Puma web server [https://github.com/puma/puma]
-gem "puma", "~> 6.5"
+gem "puma", "~> 6.6"
 # Bundle and transpile JavaScript [https://github.com/rails/jsbundling-rails]
 gem "jsbundling-rails", "~> 1.3", ">= 1.3.1"
 # Hotwire"s SPA-like page accelerator [https://turbo.hotwired.dev]
